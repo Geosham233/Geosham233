@@ -21,7 +21,7 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 **Languages and Tools:**  
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hectormanu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geosham233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -36,10 +36,10 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 
 ### GitHub Streak
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hectormanu&theme=highcontrast&hide_border=true" alt="hectormanu" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Geosham233&theme=highcontrast&hide_border=true" alt="Geosham233" />
 
 ### Activity Trends
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hectormanu&theme=dracula&hide_border=true)
 
-**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/hectormanu/count.svg)
+**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/Geosham233/count.svg)
