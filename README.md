@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Welcome to my profile! I'm a student as well as a data science enthusiast, I like software development because it's great for turning ideas into code.
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/Geosham233.png" />
+   <h3 align="center">¡Hey 👋! I´m Geovanny Ac 👨🏻‍💻</h3>
+</p>
+Welcome to my profile! I am a student and passionate about code, I really like working on projects related to code, I like to learn about new technologies and I am good at helping my classmates
 
 
 <a href="https://www.instagram.com/geovanny.ac.7/">
@@ -10,7 +14,7 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 <br />
 <br />
 
-- 🔭 I’m currently an advisor to the ITM
+- 🔭 I’m currently a student to the ITM
 - 🌱 I’m currently learning Frontend Developer
 - 👯 I’m looking to collaborate
 - 💼 I'm pursuing a Bachelor of Computer Systems Engineering
