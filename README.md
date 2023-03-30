@@ -10,7 +10,7 @@ Welcome to my profile! I am a student and passionate about code, I really like w
 <br />
 
 - 🔭 I’m currently a student to the ITM
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **HTML, CSS, PHP**
 - 👯 I'm looking to collaborate with web projects
 - 💼 I'm pursuing a Bachelor of Computer Systems Engineering
 - 🤔 My interests are software development
